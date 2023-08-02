@@ -1,0 +1,28 @@
+.content {
+  font-family: "Roboto";
+  font-size: 15px;
+  height: 15px;
+}
+.btn {
+  width: 60px;
+  font-size: 10px;
+  margin: 3px;
+}
+.edit-btn {
+  background-color: green;
+  color: #ffffff;
+  border: 0 solid #000000;
+  padding: 2px;
+  border-radius: 4px;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+.delete-btn {
+  background-color: red;
+  color: #ffffff;
+  border: 0 solid #000000;
+  padding: 2px;
+  border-radius: 4px;
+  font-family: "Roboto";
+  font-size: 15px;
+}
